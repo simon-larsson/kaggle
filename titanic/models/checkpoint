@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/GitHub/kaggle/titanic/models/nn_clf"
+all_model_checkpoint_paths: "C:/GitHub/kaggle/titanic/models/nn_clf"
