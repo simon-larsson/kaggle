@@ -1,3 +1,7 @@
+# Datasets and predictions
+*/data/
+*/predictions/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
