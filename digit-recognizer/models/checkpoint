@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/GitHub/kaggle/digit-recognizer/models/digit_recognizer"
+all_model_checkpoint_paths: "C:/GitHub/kaggle/digit-recognizer/models/digit_recognizer"
