@@ -1,6 +1,11 @@
 # Datasets and predictions
 */data/
 */predictions/
+*/input/
+*/output/
+
+# Saved models
+*.h5
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
